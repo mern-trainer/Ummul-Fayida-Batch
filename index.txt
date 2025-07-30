@@ -1,0 +1,17 @@
+Hello Word
+
+-> vs code
+-> git - Version control system -> 12, 13, 14 ,16
+-> github -> Cloud Storage -> gitlab, bitbucket
+
+commands
+
+-> git --version
+-> git init - initialize local git repo.
+
+-> git config --global user.name "your name"
+-> git config --global user.email "your email"
+
+-> git add . -> add all files
+-> git add <file_1> <file_2> - add specific files
+
