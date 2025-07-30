@@ -28,3 +28,5 @@ git branch <branch_name> - create a branch
 git branch -> list of branches
 
 git switch <branch_name> -> switch branches
+
+git merge <branch_name> -> merge a branch to master
