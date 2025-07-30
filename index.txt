@@ -14,4 +14,9 @@ commands
 
 -> git add . -> add all files
 -> git add <file_1> <file_2> - add specific files
+-> git commit -m "change message"
 
+-> git remote add <remote_name> <remote_url> -> set new remote
+-> git config --get remote.<remote_name>.url -> get remote url
+
+-> git push <remote_name> <branch_name> -> push changes to github
